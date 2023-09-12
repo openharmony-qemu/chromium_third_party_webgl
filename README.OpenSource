@@ -1,6 +1,6 @@
 [
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "BSDStyleLicense",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -8,7 +8,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "LGPLStyleLicense",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -16,7 +16,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "GPLStyleLicense",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -24,7 +24,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "MIT",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -32,7 +32,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "zlib-acknowledgement",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -40,7 +40,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "Khronos License",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -48,7 +48,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "SGI-B-1.1",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -56,7 +56,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "MIT-style",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -64,7 +64,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "BSD-2-Clause",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
@@ -72,7 +72,7 @@
         "Description": "第三方软件webgl"           # 开源软件功能描述
     },
     {
-        "Name": "chromium_third_party_webgl",                   # 上游开源软件名全称
+        "Name": "webgl",                   # 上游开源软件名全称
         "License": "SGI-B-1.1",        # 上游开源软件中包含的许可证信息
         "License File": "LICENSE.txt"     # 许可证所在文件路径
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
