@@ -1,11 +1,11 @@
 [
     {
-        "Name": "webgl",                   # 上游开源软件名全称
-        "License": "LicenseRef-scancode-khronos",        # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE.txt"     # 许可证所在文件路径
+        "Name": "webgl",                  
+        "License": "LicenseRef-scancode-khronos", 
+        "License File": "LICENSE.txt",
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
         "Owner": "jinchanggang@huawei.com",
-        "Upstream URL": "https://chromium.googlesource.com/external/khronosgroup/webgl.git@b1f3776e4913637221733a4da09f3339e783b771",   # 上游软件包发布地址
-        "Description": "第三方软件webgl"           # 开源软件功能描述
+        "Upstream URL": "https://chromium.googlesource.com/external/khronosgroup/webgl.git@b1f3776e4913637221733a4da09f3339e783b771",
+        "Description": "第三方软件webgl"
     }
 ]
