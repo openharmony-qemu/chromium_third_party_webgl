@@ -71,9 +71,6 @@ used to filter file path.
                 <policyitem type="compatibility" name="SGI-B-1.1" path="conformance-suites/.*" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="SGI-B-1.1" path="sdk/tests/js/pnglib.js" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="SGI-B-1.1" path="sdk/demos/google/san-angeles/.*" desc="经法务确认为宽松型许可证" />
-                <policyitem type="compatibility" name="GPLStyleLicense" path="sdk/demos/google/san-angeles/.*" desc="经法务确认,涉及文件在render下进行了隔离" />
-                <policyitem type="compatibility" name="GPLStyleLicense" path="conformance-suites/1.0.3/resources/cookies.js" desc="经法务确认,涉及文件在render下进行了隔离" />
-                <policyitem type="compatibility" name="GPLStyleLicense" path="resources/jquery-1.3.2.min.js" desc="经法务确认,涉及文件在render下进行了隔离" />
             </policy>
         </policylist>
         <filefilterlist>
@@ -86,6 +83,12 @@ used to filter file path.
             <filefilter name="defaultFilter">
                 <filteritem type="filepath" name="README.OpenSource"
                     desc="Filter readme.opensource files" />
+                <filteritem type="filepath" name="sdk/demos/google/san-angeles/.*"
+                    desc="经确认不使用该类文件" />
+                <filteritem type="filepath" name="conformance-suites/1.0.3/resources/cookies.js"
+                    desc="经确认不使用该类文件" />
+                <filteritem type="filepath" name="resources/jquery-1.3.2.min.js"
+                    desc="经确认不使用该类文件" />
             </filefilter>
             <filefilter name="binaryFileTypePolicyFilter">
                 <filteritem type="filename" name="*.png"

@@ -1,7 +1,7 @@
 [
     {
-        "Name": "webgl",                  
-        "License": "LicenseRef-scancode-khronos", 
+        "Name": "webgl",
+        "License": "LicenseRef-scancode-khronos",
         "License File": "LICENSE.txt",
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
         "Owner": "jinchanggang@huawei.com",
