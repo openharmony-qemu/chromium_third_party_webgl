@@ -6,6 +6,6 @@
         "Version Number": "b1f3776e4913637221733a4da09f3339e783b771",
         "Owner": "jinchanggang@huawei.com",
         "Upstream URL": "https://chromium.googlesource.com/external/khronosgroup/webgl.git@b1f3776e4913637221733a4da09f3339e783b771",
-        "Description": "第三方软件webgl"
+        "Description": "第三方软件webgl,用于创建具有复杂3D结构的网站页面"
     }
 ]
