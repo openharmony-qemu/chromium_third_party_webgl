@@ -71,7 +71,9 @@ used to filter file path.
                 <policyitem type="compatibility" name="Khronos License" path="LICENSE.txt" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="Khronos License" path="expand_date" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="Khronos License" path="install-gitconfig.sh" desc="经法务确认为宽松型许可证" />
-                <policyitem type="compatibility" name="Khronos License" path="specs/.*" desc="经法务确认为宽松型许可证" />
+                <policyitem type="compatibility" name="Khronos License" path="sdk/demos/intel/js/renderer.js" desc="经法务确认为宽松型许可证" />
+                <policyitem type="compatibility" name="Khronos License" path="conformance-suites/1.0.1/resources/webgl-test-harness.js" desc="经法务确认为宽松型许可证" />
+                <policyitem type="compatibility" name="Khronos License" path="sdk/demos/intel/fluid/demo.js" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="LicenseRef-scancode-generic-cla" path="sdk/tests/closure-library/CONTRIBUTING" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="LicenseRef-scancode-generic-cla" path="conformance-suites/2.0.0/closure-library/CONTRIBUTING" desc="经法务确认为宽松型许可证" />
                 <policyitem type="compatibility" name="LicenseRef-scancode-khronos" path="install-gitconfig.bat" desc="经法务确认为宽松型许可证" />
@@ -85,8 +87,6 @@ used to filter file path.
         <filefilterlist>
             <filefilter name="defaultPolicyFilter"
                 desc="Filters for compatibility,license header policies">
-                <filteritem type="filepath" name=".*js"
-                desc="" />
             </filefilter>
 
             <filefilter name="defaultFilter">
