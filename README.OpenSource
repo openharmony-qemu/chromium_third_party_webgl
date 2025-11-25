@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "webgl",
+        "License": "LicenseRef-scancode-khronos",
+        "License File": "LICENSE.txt",
+        "Version Number": "450cceb587613ac1469c5a131fac15935c99e0e7",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/external/khronosgroup/webgl.git@450cceb587613ac1469c5a131fac15935c99e0e7",
+        "Description": "第三方软件webgl,用于创建具有复杂3D结构的网站页面"
+    }
+]
